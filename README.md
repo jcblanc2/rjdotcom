@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @rjdotcom
+- 👀 I’m interested in Web Developement
